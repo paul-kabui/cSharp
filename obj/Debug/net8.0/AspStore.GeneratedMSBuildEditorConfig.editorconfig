@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspStore
-build_property.ProjectDir = /home/paul-dev/code/AspStore/
+build_property.ProjectDir = /home/paul-dev/code/DotNetProgram/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -19,7 +19,7 @@ namespace InheritanceConcept{
     }
 
     class AnimalInfo{
-        public static void Main(String[] args)
+        public static void Mainu(String[] args)
         {
             Dog tom = new("Tom","Woof",12);
             tom.DisplayInfo();

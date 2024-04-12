@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2j0WC/rZGFeFq/43engZvfVaFpkb/QWXXwvNEH82kvLwTmoXBKpy/8EuNxu3Pq/LgLRiz/gGqSaM3UF5zHEwg==",
+  "dgSpecHash": "9adGTeNsko34ygx+TPr/OvU6zLOYB1XiKjN4IcHHOikFGpT89zl1ndKikCSZqDoo0USI4qppL7urubZesJqC0A==",
   "success": true,
-  "projectFilePath": "/home/paul-dev/code/AspStore/AspStore.csproj",
+  "projectFilePath": "/home/paul-dev/code/DotNetProgram/AspStore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/paul-dev/code/AspStore/AspStore.csproj": {}
+    "/home/paul-dev/code/DotNetProgram/AspStore.csproj": {}
   },
   "projects": {
-    "/home/paul-dev/code/AspStore/AspStore.csproj": {
+    "/home/paul-dev/code/DotNetProgram/AspStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paul-dev/code/AspStore/AspStore.csproj",
+        "projectUniqueName": "/home/paul-dev/code/DotNetProgram/AspStore.csproj",
         "projectName": "AspStore",
-        "projectPath": "/home/paul-dev/code/AspStore/AspStore.csproj",
+        "projectPath": "/home/paul-dev/code/DotNetProgram/AspStore.csproj",
         "packagesPath": "/home/paul-dev/.nuget/packages/",
-        "outputPath": "/home/paul-dev/code/AspStore/obj/",
+        "outputPath": "/home/paul-dev/code/DotNetProgram/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/paul-dev/.nuget/NuGet/NuGet.Config"
