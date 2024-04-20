@@ -4,7 +4,8 @@ namespace DotNetProgram.LinqCocepts
 {
     public class LinqExample2
     {
-        public static void Main(string[] args)
+        //Make it main to run this fill
+        public static void Maink(string[] args)
         {
             int[] numbers = [1,2,3,4,5];
             string[] words = ["one","two","three","four","five"];
